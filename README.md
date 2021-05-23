@@ -37,7 +37,8 @@ For React Frontend:
 
 1. Install Node.js and npm - https://nodejs.org/dist/v14.17.0/node-v14.17.0-x86.msi
 2. Switch to the jsonapiprocessor/src/main/ui folder
-3. cmd - Open terminal in this folder and type and click enter - npm start
+3. cmd - Open terminal in this folder and type and click enter - npm install
+4. cmd - Open terminal in this folder and type and click enter - npm start
 
 Go to localhost:3000 to access the application.
 
