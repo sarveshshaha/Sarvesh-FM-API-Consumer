@@ -21,9 +21,9 @@ As mentioned earlier, the applicaiton is directly accessible, but if you need to
 
 1. Install Intellij IDEA IDE
 2. Open jsonapiprocessor as a Project
-3. ![image](https://user-images.githubusercontent.com/35260770/119262758-845be880-bc30-11eb-8f37-278d6f948c6e.png)
+3. Edit Configurations and add Build and Run configs as follows:
 
-   Edit Configurations and add Build and Run configs as follows:
+   ![image](https://user-images.githubusercontent.com/35260770/119263611-deaa7880-bc33-11eb-965e-49dcb933bc84.png)
    
    ![image](https://user-images.githubusercontent.com/35260770/119262885-e74d7f80-bc30-11eb-84e2-7372cfb5b248.png)
    
