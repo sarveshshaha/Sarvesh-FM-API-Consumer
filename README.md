@@ -30,8 +30,12 @@ This is enough to run the application in local as the React app accesses the end
 
 
 However, if you were to change the endpoints to localhost from:
-sarvesh-fm-api-consumer/jsonapiprocessor/src/main/ui/src/controllers/UserDetails.js - http://sarveshfmapiconsumer-env.eba-3gpnrptp.ap-southeast-2.elasticbeanstalk.com/api/users -> http://localhost:8080/api/users
-sarvesh-fm-api-consumer/jsonapiprocessor/src/main/ui/src/controllers/PostDetails.js - http://sarveshfmapiconsumer-env.eba-3gpnrptp.ap-southeast-2.elasticbeanstalk.com/api/posts -> http://localhost:8080/api/posts
+
+1. sarvesh-fm-api-consumer/jsonapiprocessor/src/main/ui/src/controllers/UserDetails.js - 
+http://sarveshfmapiconsumer-env.eba-3gpnrptp.ap-southeast-2.elasticbeanstalk.com/api/users -> http://localhost:8080/api/users
+
+2. sarvesh-fm-api-consumer/jsonapiprocessor/src/main/ui/src/controllers/PostDetails.js - 
+http://sarveshfmapiconsumer-env.eba-3gpnrptp.ap-southeast-2.elasticbeanstalk.com/api/posts -> http://localhost:8080/api/posts
 
 Then you would need to run the local Spring application as follows:
 
