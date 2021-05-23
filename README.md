@@ -57,4 +57,6 @@ Then you would need to run the local Spring application as follows:
 8. Skip if already completed - cmd - Open terminal in this folder and type and click enter - npm install
 9. cmd - Open terminal in this folder and type and click enter - npm start
 
+Please note that this repository was uploaded as a whole due to user issues faced in local git.
+
 Thank you.
